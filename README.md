@@ -21,26 +21,26 @@ Deeplearning.AI TensorFlow: TensorFlow Developer Specialization
 
 * [**Week 4 Multiclass Classifications**](https://github.com/aqafridi/TensorFlow-Developer-Specialization/tree/main/2%20-%20Convolutional%20Neural%20Networks%20in%20TensorFlow/Week%204%20Multiclass%20Classifications)
 
-## Course 3: Advanced Computer Vision with TensorFlow
+## Course 3: Natural Language Processing in TensorFlow
 
-* [**Week 1 - Introduction to Computer Vision**](https://github.com/aqafridi/TensorFlow-Advanced-Techniques/tree/main/Advanced%20Computer%20Vision%20with%20TensorFlow/Week%201%20Introduction%20to%20Computer%20Vision)
+* [**Week 1 Sentiment in text**](https://github.com/aqafridi/TensorFlow-Developer-Specialization/tree/main/3%20-%20Natural%20Language%20Processing%20in%20TensorFlow/Week%201%20Sentiment%20in%20text)
 
-* [**Week 2 - Object Detection**](https://github.com/aqafridi/TensorFlow-Advanced-Techniques/tree/main/Advanced%20Computer%20Vision%20with%20TensorFlow/Week%202%20Object%20Detection)
+* [**Week 2 Word Embeddings**](https://github.com/aqafridi/TensorFlow-Developer-Specialization/tree/main/3%20-%20Natural%20Language%20Processing%20in%20TensorFlow/Week%202%20Word%20Embeddings)
 
 
-* [**Week 3 - Image Segmentation**](https://github.com/aqafridi/TensorFlow-Advanced-Techniques/tree/main/Advanced%20Computer%20Vision%20with%20TensorFlow/Week%203%20Image%20Segmentation)
+* [**Week 3 Sequence models**](https://github.com/aqafridi/TensorFlow-Developer-Specialization/tree/main/3%20-%20Natural%20Language%20Processing%20in%20TensorFlow/Week%203%20Sequence%20models)
 
-* [**Week 4 - Visualization and Interpretability**](https://github.com/aqafridi/TensorFlow-Advanced-Techniques/tree/main/Advanced%20Computer%20Vision%20with%20TensorFlow/Week%204%20Visualization%20and%20Interpretability)
+* [**Week 4 Sequence models and literature**](https://github.com/aqafridi/TensorFlow-Developer-Specialization/tree/main/3%20-%20Natural%20Language%20Processing%20in%20TensorFlow/Week%204%20Sequence%20models%20and%20literature)
 
-## Course 4: Generative Deep Learning with TensorFlow
+## Course 4: Sequences, Time Series and Prediction
 
-* [**Week 1 - Style Transfer**](https://github.com/aqafridi/TensorFlow-Advanced-Techniques/tree/main/Generative%20Deep%20Learning%20with%20TensorFlow/Week%201%20Style%20Transfer)
+* [**Week 1 Sequences and Prediction**](https://github.com/aqafridi/TensorFlow-Developer-Specialization/tree/main/4%20-%20Sequences%2C%20Time%20Series%20and%20Prediction/Week%201%20Sequences%20and%20Prediction)
 
-* [**Week 2 - AutoEncoders**](https://github.com/aqafridi/TensorFlow-Advanced-Techniques/tree/main/Generative%20Deep%20Learning%20with%20TensorFlow/Week%202%20AutoEncoders)
+* [**Week 2 Deep Neural Networks for Time Series**](https://github.com/aqafridi/TensorFlow-Developer-Specialization/tree/main/4%20-%20Sequences%2C%20Time%20Series%20and%20Prediction/Week%202%20Deep%20Neural%20Networks%20for%20Time%20Series)
 
-* [**Week 3 - Variational AutoEncoders**](https://github.com/aqafridi/TensorFlow-Advanced-Techniques/tree/main/Generative%20Deep%20Learning%20with%20TensorFlow/Week%203%20Variational%20AutoEncoders)
+* [**Week 3 Recurrent Neural Networks for Time Series**](https://github.com/aqafridi/TensorFlow-Developer-Specialization/tree/main/4%20-%20Sequences%2C%20Time%20Series%20and%20Prediction/Week%203%20Recurrent%20Neural%20Networks%20for%20Time%20Series)
 
-* [**Week 4 - GANS**](https://github.com/aqafridi/TensorFlow-Advanced-Techniques/tree/main/Generative%20Deep%20Learning%20with%20TensorFlow/Week%204%20GANs)
+* [**Week 4 Real-world time series data**](https://github.com/aqafridi/TensorFlow-Developer-Specialization/tree/main/4%20-%20Sequences%2C%20Time%20Series%20and%20Prediction/Week%204%20Real-world%20time%20series%20data)
 
 ## Certificate of Specialization
 ![Tensorflow Advanced Techniques Specialization](https://github.com/aqafridi/TensorFlow-Advanced-Techniques/blob/main/Tensorflow%20Advanced%20Techniques%20Specialization.jpg)
