@@ -11,15 +11,15 @@ Deeplearning.AI TensorFlow: TensorFlow Developer Specialization
 
 * [**Week 4 Using Real-world Images**](https://github.com/aqafridi/TensorFlow-Developer-Specialization/tree/main/1%20-%20Introduction%20to%20TensorFlow%20for%20Artificial_Intelligence%2C%20Machine%20Learning%2C%20and%20Deep_Learning/Week%204%20Using%20Real-world%20Images)
 
-## Course 2: Custom and Distributed Training with TensorFlow
+## Course 2: Convolutional Neural Networks in TensorFlow
 
-* [**Week 1 - Differentiation and Gradients**](https://github.com/aqafridi/TensorFlow-Advanced-Techniques/tree/main/Custom%20and%20Distributed%20Training%20with%20TensorFlow/Week%201%20Differentiation%20and%20Gradients)
+* [**Week 1 Exploring a Larger Dataset cat and dog**](https://github.com/aqafridi/TensorFlow-Developer-Specialization/tree/main/2%20-%20Convolutional%20Neural%20Networks%20in%20TensorFlow/Week%201%20Exploring%20a%20Larger%20Dataset%20cat%20and%20dog)
 
-* [**Week 2 - Custom Training**](https://github.com/aqafridi/TensorFlow-Advanced-Techniques/tree/main/Custom%20and%20Distributed%20Training%20with%20TensorFlow/Week%202%20Custom%20Training)
+* [**Week 2 Augmentation A technique to avoid overfitting**](https://github.com/aqafridi/TensorFlow-Developer-Specialization/tree/main/2%20-%20Convolutional%20Neural%20Networks%20in%20TensorFlow/Week%202%20Augmentation%20A%20technique%20to%20avoid%20overfitting)
 
-* [**Week 3 - Graph Mode**](https://github.com/aqafridi/TensorFlow-Advanced-Techniques/tree/main/Custom%20and%20Distributed%20Training%20with%20TensorFlow/Week%203%20Graph%20Mode)
+* [**Week 3 Transfer Learning**](https://github.com/aqafridi/TensorFlow-Developer-Specialization/tree/main/2%20-%20Convolutional%20Neural%20Networks%20in%20TensorFlow/Week%203%20Transfer%20Learning)
 
-* [**Week 4 - Custom and Distributed Training with TensorFlow**](https://github.com/aqafridi/TensorFlow-Advanced-Techniques/tree/main/Custom%20and%20Distributed%20Training%20with%20TensorFlow/Week%204%20Distributed%20Training)
+* [**Week 4 Multiclass Classifications**](https://github.com/aqafridi/TensorFlow-Developer-Specialization/tree/main/2%20-%20Convolutional%20Neural%20Networks%20in%20TensorFlow/Week%204%20Multiclass%20Classifications)
 
 ## Course 3: Advanced Computer Vision with TensorFlow
 
