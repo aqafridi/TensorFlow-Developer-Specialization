@@ -3,7 +3,7 @@ Deeplearning.AI TensorFlow: TensorFlow Developer Specialization
 
 ## Course 1: Introduction to TensorFlow for Artificial Intelligence
 
-* [**Week 1 First Neural Network**](https://github.com/aqafridi/TensorFlow-Developer-Specialization/tree/main/1%20-%20Introduction%20to%20TensorFlow%20for%20Artificial_Intelligence%2C%20Machine%20Learning%2C%20and%20Deep_Learning/Week%201%20First%20Neural%20Network)
+* [**Week 1 A New Programming Paradigm**](https://github.com/aqafridi/TensorFlow-Developer-Specialization/tree/main/1%20-%20Introduction%20to%20TensorFlow%20for%20Artificial_Intelligence%2C%20Machine%20Learning%2C%20and%20Deep_Learning/Week%201%20First%20Neural%20Network)
 
 * [**Week 2 Introduction to Computer Vision**](https://github.com/aqafridi/TensorFlow-Developer-Specialization/tree/main/1%20-%20Introduction%20to%20TensorFlow%20for%20Artificial_Intelligence%2C%20Machine%20Learning%2C%20and%20Deep_Learning/Week%202%20Introduction%20to%20Computer%20Vision)
 
