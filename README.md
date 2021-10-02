@@ -43,4 +43,4 @@ Deeplearning.AI TensorFlow: TensorFlow Developer Specialization
 * [**Week 4 Real-world time series data**](https://github.com/aqafridi/TensorFlow-Developer-Specialization/tree/main/4%20-%20Sequences%2C%20Time%20Series%20and%20Prediction/Week%204%20Real-world%20time%20series%20data)
 
 ## Certificate of Specialization
-![TensorFlow Developer Specialization]()
+![TensorFlow Developer Specialization](https://github.com/aqafridi/TensorFlow-Developer-Specialization/blob/main/images/DeepLearning.AI%20Tensorflow%20Developer.jpg)
